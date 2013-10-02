@@ -1,8 +1,6 @@
 package com.google.gwt.sample.stockwatcher.client;
 
-// github repository test
-
-// 
+// github repository test ******************
 
 //import com.google.appengine.api.users.User;
 //import com.google.appengine.api.users.UserService;
